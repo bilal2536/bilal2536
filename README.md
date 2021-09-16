@@ -16,11 +16,12 @@ de **design** deux éléments qui m'intéressent **grandement.**
 
 ## Mes compétences 
 
-**Bon, ok.. d'accord 😕, je l'avoue j'ai tout appris tout seul dans mon coin et alors ?**
-  - [x] Personne ne m'oblige à le faire et pourtant je le fais
-  - [x] Apprendre chaque jour est devenu une habitude
-  - [x] Devoir résoudre seul des problèmes est une obligation
-  - [x] Savoir effectuer des recherches
-  - [ ] Dormir en cours car le prof est en pilote automatique *(Critique facile, mais vrai)*
+  - [x] HTML/CSS/SASS
+  - [x] JAVASCRIPT/TYPESCRIPT
+  - [x] REACTJS
+  - [x] NODEJS
+  - [x] MYSQL
+  - [X] MONGODB 
+  - [ ] Boire énormément de café *(Critique facile, mais vrai)*
 
 
