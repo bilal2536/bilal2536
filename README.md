@@ -7,10 +7,10 @@
 Je suis développeur front-end junior actuellement en formation au cefim de Tours. 
 Je suis actuellement à la recherche d'un contrat d'alternance pour me permettre de continuer mon apprentissage du 22/11/2021 au 22/11/2022. 
 
-## Pourquoi développeur web et pas footbaleur pro ?
+## Pourquoi développeur web et pas footballeur pro ?
 
-<img align="center" src="https://thumbs.gfycat.com/AchingIdolizedLaughingthrush-size_restricted.gif" alt="banner-of-bilal-jellouli" >
-<img align="center" src="https://zupimages.net/up/21/37/jy1f.png" alt="banner-of-bilal-jellouli" >
+<img height="200px" width="250px" align="center" src="https://thumbs.gfycat.com/AchingIdolizedLaughingthrush-size_restricted.gif" alt="banner-of-bilal-jellouli" >
+<img height="300px" width="250px" align="center" src="https://zupimages.net/up/21/37/jy1f.png" alt="banner-of-bilal-jellouli" >
 
 J'ai rapidement été attiré par le développement web et malgré le fait que j'ai un pied gauche magique, je me suis (naturellement) dirigé vers le web un mélange de **programmation** et
 de **design** deux éléments qui m'intéressent **grandement.**
