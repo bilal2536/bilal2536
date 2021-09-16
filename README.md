@@ -11,7 +11,7 @@ Je suis actuellement à la recherche d'un contrat d'alternance pour me permettre
 
 <img align="center" src="https://thumbs.gfycat.com/AchingIdolizedLaughingthrush-size_restricted.gif" alt="banner-of-bilal-jellouli" >
 
-J'ai rapidement été attiré par le développement web et malgré le fait que j'ai un pied droit magique, je me suis (naturellement) dirigé vers le web un mélange de **programmation** et
+J'ai rapidement été attiré par le développement web et malgré le fait que j'ai un pied gauche magique, je me suis (naturellement) dirigé vers le web un mélange de **programmation** et
 de **design** deux éléments qui m'intéressent **grandement.**
 
 ## Mes compétences 
@@ -22,6 +22,12 @@ de **design** deux éléments qui m'intéressent **grandement.**
   - [x] NODEJS
   - [x] MYSQL
   - [X] MONGODB 
+  - [ ] En plein dans les docs :) 
   - [ ] Boire énormément de café *(Critique facile, mais vrai)*
+ 
+## Savoir être 
+  - Autonome | j'aime chercher et apprendre par moi-même, ce qui ne m'empêche pas d'aller poser des questions à mes proches et collègues. 
+  - Sociable | selon moi, le travail en équipe est la meilleur manière de monter en compétences :)
+  - Curieux  | Je suis quelqu'un de curieux. j'ai besoin de comprendre ce que j'utilise et d'être toujours à l’écoute des nouveautés. Tout ça passe bien             évidemment par une bonne veille technologique.
 
 
