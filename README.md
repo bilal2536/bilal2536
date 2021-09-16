@@ -22,12 +22,18 @@ de **design** deux éléments qui m'intéressent **grandement.**
   - [x] NODEJS
   - [x] MYSQL
   - [X] MONGODB 
-  - [ ] En plein dans les docs :) 
-  - [ ] Boire énormément de café *(Critique facile, mais vrai)*
+  - [ ] JAVA en plein dans les docs :) 
+  - [x] Boire énormément de café *(Critique facile, mais vrai)*
  
 ## Savoir être 
-  - Autonome | j'aime chercher et apprendre par moi-même, ce qui ne m'empêche pas d'aller poser des questions à mes proches et collègues. 
-  - Sociable | selon moi, le travail en équipe est la meilleur manière de monter en compétences :)
-  - Curieux  | Je suis quelqu'un de curieux. j'ai besoin de comprendre ce que j'utilise et d'être toujours à l’écoute des nouveautés. Tout ça passe bien             évidemment par une bonne veille technologique.
+  - Autonome : j'aime chercher et apprendre par moi-même, ce qui ne m'empêche pas d'aller poser des questions à mes proches et collègues. 
+  - Sociable : selon moi, le travail en équipe est la meilleur manière de monter en compétences :)
+  - Curieux  : je suis quelqu'un de curieux. j'ai besoin de comprendre ce que j'utilise et d'être toujours à l’écoute des nouveautés. Tout ça passe bien             évidemment par une bonne veille technologique.
+
+## Mon objectif 
+
+Mon objectif est de réussir à me former au sein d'une équipe performante et chalereuse afin de décrocher le job de mes rêves ! 
+
+
 
 
