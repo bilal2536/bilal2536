@@ -33,7 +33,7 @@ de **design** deux éléments qui m'intéressent **grandement.**
 
 ## Mon objectif 
 
-Mon objectif est de réussir à me former au sein d'une équipe performante et chalereuse afin de décrocher le job de mes rêves ! 
+Mon objectif est de réussir à me former au sein d'une équipe performante et chaleureuse afin de décrocher le job de mes rêves ! 
 
 
 
