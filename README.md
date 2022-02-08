@@ -9,8 +9,7 @@ Je suis actuellement à la recherche d'un contrat d'alternance pour me permettre
 
 ## Pourquoi développeur web et pas footballeur pro ?
 
-<img height="200px" width="250px" align="center" src="https://thumbs.gfycat.com/AchingIdolizedLaughingthrush-size_restricted.gif" alt="banner-of-bilal-jellouli" >
-<img height="300px" width="250px" align="center" src="https://zupimages.net/up/21/37/jy1f.png" alt="banner-of-bilal-jellouli" >
+<img src="https://zupimages.net/up/22/06/krah.png" >
 
 J'ai rapidement été attiré par le développement web et malgré le fait que j'ai un pied gauche magique, je me suis (naturellement) dirigé vers le web un mélange de **programmation** et
 de **design** deux éléments qui m'intéressent **grandement.**
