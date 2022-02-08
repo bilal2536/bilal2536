@@ -4,8 +4,8 @@
 
 ## Bienvenue sur mon profil !
 
-Je suis développeur front-end junior actuellement en formation au cefim de Tours. 
-Je suis actuellement à la recherche d'un contrat d'alternance pour me permettre de continuer mon apprentissage du 22/11/2021 au 22/11/2022. 
+Je suis développeur front-end junior actuellement en formation au CEFIM de Tours. 
+Je suis actuellement à la recherche du job de mes rêves !
 
 ## Pourquoi développeur web et pas footballeur pro ?
 
