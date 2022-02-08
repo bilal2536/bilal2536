@@ -1,6 +1,6 @@
 # Salut, moi c'est Bilal Jellouli 👨🏻‍💻
 
-<img src="https://zupimages.net/viewer.php?id=22/06/djsp.png" >
+<img src="https://zupimages.net/up/22/06/djsp.png" >
 
 ## Bienvenue sur mon profil !
 
