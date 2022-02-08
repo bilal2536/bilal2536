@@ -29,7 +29,7 @@ de **design** deux éléments qui m'intéressent **grandement.**
 ## Savoir être 
   - Autonome : j'aime chercher et apprendre par moi-même, ce qui ne m'empêche pas d'aller poser des questions à mes proches et collègues. 
   - Sociable : selon moi, le travail en équipe est la meilleur manière de monter en compétences :)
-  - Curieux  : je suis quelqu'un de curieux. j'ai besoin de comprendre ce que j'utilise et d'être toujours à l’écoute des nouveautés. Tout ça passe bien             évidemment par une bonne veille technologique.
+  - Curieux  : je suis quelqu'un de curieux. J'ai besoin de comprendre ce que j'utilise et d'être toujours à l’écoute des nouveautés. Tout ça passe bien             évidemment par une bonne veille technologique.
 
 ## Mon objectif 
 
