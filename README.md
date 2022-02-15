@@ -17,12 +17,12 @@ de **design** deux éléments qui m'intéressent **grandement.**
 ## Mes compétences 
 
   - [x] HTML/CSS/SASS
-  - [x] JAVASCRIPT/TYPESCRIPT
-  - [x] REACTJS
+  - [x] JAVASCRIPT
+  - [x] REACTJS / VUEJS
   - [x] NODEJS
   - [x] MYSQL
   - [X] MONGODB 
-  - [ ] JAVA en plein dans les docs :) 
+  - [x] JAVA
   - [x] Boire énormément de café *(Critique facile, mais vrai)*
  
 ## Savoir être 
